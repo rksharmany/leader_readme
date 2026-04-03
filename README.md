@@ -45,6 +45,6 @@ I operate with three distinct lenses:
 ---
 
 ## VI. Tactical Protocols
-* **My "Deep Work" hours are usually:** `[Fill in: e.g., 8 AM – 10 AM]`
-* **If there is a true emergency (System Down), reach me via:** `[Fill in: e.g., Phone Call/PagerDuty]`
-* **My favorite way to celebrate a win is:** `[Fill in: e.g., Team dinner, shout-outs, etc.]`
+* **My "Deep Work" hours are usually:** Mornings
+* **If there is a true emergency (System Down), reach me via:** Rootly // PagerDuty
+* **My favorite way to celebrate a win is:** Cheerlead and hype
