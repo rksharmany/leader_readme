@@ -25,7 +25,7 @@ I operate with three distinct lenses:
 
 ## III. What I Value (The "Bar")
 * **Extreme Ownership:** Own and lead your domain and when things go wrong, tell me early. I have complete patience for things going wrong and zero tolerance for "hiding the truth." Be accountable!
-* **Personal Optimization:** I am a proponent of personal optimization. I value when people are constantly trying to improve their "operating system," whether that’s through better code, better health, or better mental models.
+* **Personal Optimization:** I am a proponent of personal optimization. I value when people are open about improving their "operating system," whether that’s through better code, better health, or better mental models. This includes communicating our gaps and being vulnerable.
 
 ---
 
