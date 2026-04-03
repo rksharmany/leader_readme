@@ -31,9 +31,9 @@ I operate through three distinct lenses:
 ---
 
 ## IV. Feedback & Conflict
-* **Giving Feedback:** I provide feedback in real-time. It will be direct and sometimes intense. It is never personal; it’s about the quality of the work.
+* **Giving Feedback:** I provide feedback in real-time. It will be direct and sometimes intense. It is never personal; it’s about the improving.
 * **Receiving Feedback:** I am not always right, and I need you to keep me in check. If I’m being too skeptical or my intensity is stalling progress, tell me.
-* **1:1s:** These are *your* meetings. `[Fill in: Your preferred frequency—e.g., weekly or bi-weekly]`. Come with an agenda. I will usually start by asking, "What is the highest-leverage thing I can do for you this week?"
+* **1:1s:** These are *your* meetings. Come with an agenda. I will usually start by asking, "What is on your mind?"
 
 ---
 
