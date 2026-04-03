@@ -9,7 +9,7 @@
 This document is designed to shorten our learning curve. I am **intense, obsessive, and dynamic**. I value high-performance systems—both in code and in people. I don’t expect you to be a mind reader, so here is the operating manual for working with me. While I am a natural skeptic, my baseline is **Positive-Sum Thinking**. I operate under the belief that for us to win, others don't have to lose. I am constantly looking for ways where the team, the business, and the individual all "win" simultaneously. If I’m pushing you, it’s because I see an opportunity to expand the "win" for everyone.
 
 I operate with three distinct lenses:
-1.  **The High-Performance Protector:** I am a fierce advocate our org and our mission. I view us as elite athletes; I expect elite performance but will stand in the gap to ensure you have what you need to win.
+1.  **The High-Performance Protector:** I am a fierce advocate for our org and our mission. I view us as elite athletes; I expect elite performance but will stand in the gap to ensure you have what you need to win.
 2.  **The Systems Polymath:** I am an incessant builder both organizationally and technically. I look at everything as a system to be optimized. If I’m digging into the "why" of a process, it’s because I’m looking for the structural leverage point.
 3.  **The Cultural Hedonist:** I value the "Mover & Shaker" energy. Having lived in New York City, Barcelona and Berlin, I appreciate intensity in both life and work. I want our culture to be vibrant and all-encompassing, not just functional.
 
