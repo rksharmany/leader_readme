@@ -40,7 +40,7 @@ I operate with three distinct lenses:
 ## V. Life & Boundaries
 * **The "Dad" Factor:** I have a 9-year-old son and a family I value. There are windows where I am "offline" for them. I respect your boundaries similarly.
 * **Boxing Mentality:** I box competitively. I bring that "stay in the fight" mentality to work. If things get high-pressure, know that I’m comfortable in the tension—I want you to be, too.
-* **Schedule:** I split my time between Astoria and Long Island and travel to LA frequently. `[Fill in: Best way to see your current location or "office hours" for syncs.]`
+* **Schedule:** I split my time between Astoria, NYC and Long Island and travel to LA 4x annually. 
 
 ---
 
