@@ -24,7 +24,7 @@ I operate through three distinct lenses:
 ---
 
 ## III. What I Value (The "Bar")
-* **Extreme Accountability:** Own your domain. If a things go wrong, tell me early with a recovery plan. I have complete patience for things going wrong and zero tolerance for "hiding the truth."
+* **Extreme Ownership:** Own and lead your domain and when things go wrong, tell me early. I have complete patience for things going wrong and zero tolerance for "hiding the truth."
 * **Research-Backed Decisions:** Don't bring me "vibes." Bring me data. I follow a "trust but verify" model.
 * **Personal Optimization:** I am a proponent of personal optimization. I value when people are constantly trying to improve their "operating system," whether that’s through better code, better health, or better mental models.
 
