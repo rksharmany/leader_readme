@@ -6,7 +6,7 @@
 ---
 
 ## I. My Philosophy: The "High-Performance" Operating Model
-This document is designed to shorten our learning curve. I am **intense, obsessive, and dynamic**. I value high-performance systems—both in code and in people. I don’t expect you to be a mind reader, so here is the operating manual for working with me. While I am a natural skeptic, my baseline is **Positive-Sum Thinking**. I operate under the belief that for us to win, others don't have to lose. I am constantly looking for structural leverage where the team, the business, and the individual all gain value simultaneously. If I’m pushing you, it’s because I see an opportunity to expand the "win" for everyone.
+This document is designed to shorten our learning curve. I am **intense, obsessive, and dynamic**. I value high-performance systems—both in code and in people. I don’t expect you to be a mind reader, so here is the operating manual for working with me. While I am a natural skeptic, my baseline is **Positive-Sum Thinking**. I operate under the belief that for us to win, others don't have to lose. I am constantly looking for ways where the team, the business, and the individual all "win" simultaneously. If I’m pushing you, it’s because I see an opportunity to expand the "win" for everyone.
 
 I operate with three distinct lenses:
 1.  **The High-Performance Protector:** I am a fierce advocate our org and our mission. I view us as elite athletes; I expect elite performance but will stand in the gap to ensure you have what you need to win.
