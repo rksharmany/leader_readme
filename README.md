@@ -17,7 +17,7 @@ I operate with three distinct lenses:
 
 ## II. Communication & Efficiency
 * **Be Concise:** I value brevity. Get to the point quickly. If you can say it in three bullets, don't write three paragraphs.
-* **Directness is Efficient:** I am a straight shooter. If I think you’re wrong, I will tell you. I expect you to do the same for me. Do not back down if you have the data to prove your point—I am skeptical by nature and appreciate a well-researched rebuttal.
+* **Radical Candor:** I am a straight shooter. If I think you’re wrong, I will tell you. I expect you to do the same for me. Do not back down if you have the data to prove your point—I am skeptical by nature and appreciate a well-researched rebuttal.
 * **Slack vs. Meetings:** If it's a brief async update, leave it in Slack. Use meetings for complex problems and/or "unblocking" high-risk decisions.
 * **Response Times:** Close to immediate response over Slack, except after 7:30 PM EST.
 
