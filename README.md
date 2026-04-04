@@ -11,7 +11,7 @@ I don’t expect you to be a mind reader, so here is the operating manual for wo
 I operate with three distinct lenses:
 1.  **The High-Performance Protector:** I am a fierce advocate for our org and our mission. I view us as elite athletes; I expect elite performance but will stand in the gap to ensure you have what you need to win.
 2.  **The Systems Polymath:** I am an incessant learner and builder both technically and organizationally. I look at everything as a system to be optimized. If I’m digging into the "why" of a process, it’s because I’m looking for the structural leverage point.
-3.  **The Cultural Hedonist:** I value the "Mover & Shaker" energy. Having lived in New York City, Barcelona and Berlin, I appreciate intensity in both life and work. I want our culture to be vibrant and all-encompassing, not just functional.
+3.  **The Cultural Catalyst:** I value the "Moving & Shaking" energy. Having lived in New York City, Barcelona and Berlin, I appreciate intensity in both life and work. I want our culture to be vibrant and all-encompassing, not just functional.
 
 ---
 
