@@ -1,5 +1,5 @@
 # Manager’s ReadMe: RK Sharma
-**Role:** VP/Director of Engineering
+**Role:** VP of Engineering
 **Version:** 2.1 (The Scaling Edition)  
 **Last Updated:** April 2026
 
